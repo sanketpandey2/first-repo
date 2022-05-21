@@ -22,7 +22,7 @@ public class Car {
 		Car a = new Car();
 		a=new Car("sanket","abc");
 		
-		System.out.println("test");
+		System.out.println("test123");
 		System.out.println("test1");
 		System.out.println("test2");
 		
