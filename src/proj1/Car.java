@@ -25,6 +25,7 @@ public class Car {
 		System.out.println("test");
 		System.out.println("test12222");
 		System.out.println("test2");
+		System.out.println("test25");
 		
 	}
 }
